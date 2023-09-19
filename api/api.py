@@ -47,7 +47,7 @@ class Paciente(BaseModel):
     id:int
 
 @app.post('/guardar')
-def guardar(paciente: Paciente):
+def guardar(paciente: dict):
     px = Paciente(**paciente)
     listado_de_pacientes.append(px)
     return "Paciente guardado"
