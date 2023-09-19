@@ -1,2 +1,0 @@
-for k in {"nombre":"Luis","edad":"","sexo":"","cedula":"","residencia":"","ap":"","af":"","ahf":"","atq":"","agog":"","agop":"","agoc":"","agoa":"","mdc":"","hea":"","rscabeza":"","rscuello":"","rstorax":"","rsabdomen":"","rsgenitales":"","rsextremidades":"","efcabeza":"asd","efcuello":"","eftorax":"","efabdomen":"","efgenitales":"","efextremidades":"asd","ec":"","dx":"","comentarios":"","plan":""}.keys():
-    print(k)
