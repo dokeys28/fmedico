@@ -1,4 +1,4 @@
-const url_api_listado = 'https://api_consultorio-1-k3849092.deta.app/pacientes/'
+const url_api_listado = 'https://formulario_api-1-r2204303.deta.app/pacientes/'
 const url_api_listado_prueba = 'http://127.0.0.1:8000/pacientes/'
 const DIV_LISTADO = document.querySelector('.listado')
 const DIV_TOTAL = document.querySelector('.total')
