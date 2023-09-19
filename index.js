@@ -3,8 +3,8 @@ const BOTON_VER = document.querySelector('.blistado')
 const INPUTS = document.querySelectorAll('input')
 
 let PACIENTE = {}
-const url_api = 'https://api_consultorio-1-y0645629.deta.app/guardar'
-const url_api_total = 'https://api_consultorio-1-y0645629.deta.app/total'
+const url_api = 'https://api_consultorio-1-k3849092.deta.app/guardar'
+const url_api_total = 'https://api_consultorio-1-k3849092.deta.app/total'
 const url_api_prueba = 'http://127.0.0.1:8000/guardar'
 const url_api_prueba_total = 'http://127.0.0.1:8000/total'
 
